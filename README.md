@@ -34,9 +34,10 @@
 
 ### Output:
 
+![door knob](https://github.com/user-attachments/assets/db691ae9-5003-4467-a813-f72b6564941a)
 
-### Name:
-### Register Number:
+### Name: R Vinolia Alaina
+### Register Number: 24003757
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
